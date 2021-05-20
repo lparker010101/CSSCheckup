@@ -1,0 +1,51 @@
+
+
+
+
+.wrapper{
+    background-color: green;
+}
+
+#CapitalLetters{
+    text-transform: uppercase;
+}
+
+li{
+    background-color: red;
+}
+
+li{
+    font-family: monospace;
+}
+
+li{
+     font-size: 20px;
+}
+
+h1{
+    font-size: 80px;
+}
+
+h2{
+    font-size: 40px;
+}
+
+h1{
+    text-align:center
+}
+
+.margins-padding{
+    border: 10px solid saddlebrown;
+        margin-top: 50px;
+        margin-bottom: 50px;
+        margin-right: 300px;
+        margin-left: 300px;
+    padding: 20px 20px 20px 40ex
+}
+
+.example1{
+    height: 5px;
+    width: 400px;
+}
+
+
